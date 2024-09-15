@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">ZavodTeplicTestTask</string>
+
+    <string name="chats">Chats</string>
+    <string name="profile">Profile</string>
+
+    <string name="enter_phone_number">Введите номер телефона</string>
+    <string name="phone_number">Номер телефона</string>
+    <string name="name">Имя пользователя</string>
+    <string name="city">Город проживания</string>
+    <string name="zodiac_sign">Знак зодиака</string>
+    <string name="birthdate">Дата рождения</string>
+    <string name="username">Username</string>
+    <string name="vk">VK</string>
+    <string name="instagram">Instagram</string>
+    <string name="error_username">Неправильный формат Username</string>
+    <string name="error_register">Пожалуйста, введите верные данные.</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="error_phone_number">Пожалуйста, введите правильный номер телефона</string>
+    <string name="send_code">Отправить код</string>
+    <string name="enter_sms_code">Введите код из СМС</string>
+    <string name="sms_code">Код из СМС</string>
+    <string name="error_sms_code_length">Код должен состоять из 6 цифр.</string>
+    <string name="submit">Подтвердить</string>
+    <string name="back">Назад</string>
+    <string name="messages">Сообщения</string>
+    <string name="send">Отправить</string>
+    <string name="save">Сохранить</string>
+    <string name="profile_saved">Профиль успешно обновлен</string>
+    <string name="error_profile_loading">Ошибка загрузки профиля:</string>
+    <string name="error_profile_avatar">Загрузите аватарку</string>
+
+    <string-array name="chat_list">
+        <item>Чат 1</item>
+        <item>Чат 2</item>
+        <item>Чат 3</item>
+        <item>Чат 4</item>
+    </string-array>
+
+    <string-array name="message_list">
+        <item>Привет!</item>
+        <item>Как дела?</item>
+    </string-array>
+
+    <string name="content_description_message_icon">Message Icon</string>
+    <string name="content_description_user_avatar">User Avatar</string>
+    <string name="content_description_select_date">Select Date</string>
+
+</resources>
